@@ -1,0 +1,22 @@
+{
+    "name": "mgumiero9-dark",
+    "displayName": "MGumiero9 Dark",
+    "description": "A fancy but yet sophisticated dark designer color scheme based on bluloco-dark.",
+    "version": "0.0.1",
+    "publisher": "MGumiero9",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MGumiero9 Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MGumiero9 Dark-color-theme.json"
+            }
+        ]
+    }
+}
